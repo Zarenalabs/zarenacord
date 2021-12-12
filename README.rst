@@ -14,7 +14,7 @@ zarenacord.py
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
 **PLEASE NOTE: This lib is a fork of OG discord.py by Rapptz! Since Danny no longer maintains dpy so I created this in order to add any upcoming feature by Discord.**
-**Credit: `Rapptz <https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1>` (original creator of discord.py)**
+| **Credit: `Rapptz <https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1>` (original creator of discord.py)**
 
 Key Features
 -------------
@@ -105,8 +105,6 @@ Bot Example
         await ctx.send('pong')
 
     bot.run('token')
-
-You can find more examples in the examples directory.
 
 Links
 ------
