@@ -1,5 +1,5 @@
 zarenacord.py
-==========
+==============
 
 .. image:: https://discord.com/api/guilds/456574328990072838/embed.png
    :target: https://discord.gg/SwfNRrmr3p
@@ -108,6 +108,6 @@ Bot Example
 Links
 ------
 
-- `Documentation WIP`_
+- `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
 - `Official zarenacord Server <https://discord.gg/r3sSKJJ>`_
 - `Discord API <https://discord.gg/discord-api>`_
