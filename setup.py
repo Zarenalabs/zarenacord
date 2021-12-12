@@ -56,6 +56,7 @@ packages = [
 
 setup(name='zarenacord.py',
       author='Bravestone',
+      author_email="imbravestone@zarena.ga",
       url='https://github.com/Zarenalabs/zarenacord.py.git',
       project_urls={
         "Documentation": "https://discordpy.readthedocs.io/en/latest/",
