@@ -1,15 +1,15 @@
-.. discord.py documentation master file, created by
-   sphinx-quickstart on Fri Aug 21 05:43:30 2015.
+.. zarenacord documentation master file, created by
+   sphinx-quickstart on Fri Dec 12 06:30:00 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to discord.py
+Welcome to zarenacord
 ===========================
 
 .. image:: /images/snake.svg
 .. image:: /images/snake_dark.svg
 
-discord.py is a modern, easy to use, feature-rich, and async ready API wrapper
+zarenacord is a modern, easy to use, feature-rich, and async ready API wrapper
 for Discord.
 
 **Features:**
@@ -27,7 +27,6 @@ Is this your first time using the library? This is the place to get started!
 
 - **First steps:** :doc:`intro` | :doc:`quickstart` | :doc:`logging`
 - **Working with Discord:** :doc:`discord` | :doc:`intents`
-- **Examples:** Many examples are available in the :resource:`repository <examples>`.
 
 Getting help
 --------------
@@ -50,6 +49,7 @@ These extensions help you during development when it comes to common tasks.
 
   ext/commands/index.rst
   ext/tasks/index.rst
+  ext/application/index.rst
 
 Manuals
 ---------
@@ -62,6 +62,7 @@ These pages go into great detail about everything the API can do.
   api
   discord.ext.commands API Reference <ext/commands/api.rst>
   discord.ext.tasks API Reference <ext/tasks/index.rst>
+  discord.zarena API Reference <ext/application/index.rst>
 
 Meta
 ------

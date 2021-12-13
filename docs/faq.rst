@@ -6,7 +6,7 @@
 Frequently Asked Questions
 ===========================
 
-This is a list of Frequently Asked Questions regarding using ``discord.py`` and its extension modules. Feel free to suggest a
+This is a list of Frequently Asked Questions regarding using ``zarenacord`` and its extension modules. Feel free to suggest a
 new question or submit one via pull requests.
 
 .. contents:: Questions
@@ -77,12 +77,6 @@ General
 ---------
 
 General questions regarding library usage belong here.
-
-Where can I find usage examples?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Example code can be found in the `examples folder <https://github.com/Rapptz/discord.py/tree/master/examples>`_
-in the repository.
 
 How do I set the "Playing" status?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -30,7 +30,7 @@ if version.endswith(('a', 'b', 'rc')):
         pass
 
 readme = ''
-with open('README.rst') as f:
+with open('README.rst', encoding='utf-8') as f:
     readme = f.read()
 
 extras_require = {
@@ -54,13 +54,13 @@ packages = [
     'discord.ext.tasks',
 ]
 
-setup(name='zarenacord.py',
+setup(name='zarenacord',
       author='Bravestone',
-      author_email="imbravestone@zarena.ga",
-      url='https://github.com/Zarenalabs/zarenacord.py.git',
+      author_email="admin@zarena.ga",
+      url='https://github.com/Zarenalabs/zarenacord.git',
       project_urls={
-        "Documentation": "https://discordpy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/Zarenalabs/zarenacord.py/issues",
+        "Documentation": "https://zarenacord.readthedocs.io/en/latest/",
+        "Issue tracker": "https://github.com/Zarenalabs/zarenacord/issues",
       },
       version=version,
       packages=packages,

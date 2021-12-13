@@ -2,6 +2,7 @@
 
 .. |commands| replace:: [:ref:`ext.commands <discord_ext_commands>`]
 .. |tasks| replace:: [:ref:`ext.tasks <discord_ext_tasks>`]
+.. |application| replace:: [:ref:`discord.zarena <discord_application_commands>`]
 
 .. _whats_new:
 
@@ -10,6 +11,18 @@ Changelog
 
 This page keeps a detailed human friendly rendering of what's new and changed
 in specific versions.
+
+.. _vp1p7p4:
+
+v2.0.0
+--------
+
+Bug Fixes
+~~~~~~~~~~
+
+- Added slash command
+- Added message context menu
+- Added user context menu
 
 .. _vp1p7p3:
 
